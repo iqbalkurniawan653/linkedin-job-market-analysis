@@ -320,6 +320,4 @@ Further analysis dapat dikembangkan apabila tersedia:
 
 Dokumentasi lengkap mengenai Data Preparation, Attribute Assessment, Feature Engineering, Job Market Distribution Analysis, Relationship Analysis, Dashboard Analysis, Conclusion, dan Further Analysis tersedia pada:
 
-# Documentation
-
-[Documentation.pdf].(./documentation/Documentation.pdf)
+[View Documentation](documentation.pdf)
